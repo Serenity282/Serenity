@@ -712,14 +712,14 @@ a {
   padding-bottom: 5%;
   position: relative;
   z-index: 1;
-  /* background: url(../Images/other/banner2.jpg) center center no-repeat fixed; */
+  background: url(../Images/other/banner2.jpg) center center no-repeat fixed;
   background-size: cover;
   min-height: 100%;
 }
 .promo-banner:before {
   position: absolute;
   z-index: -1;
-  /* background: rgba(81, 87, 105, 0.4); */
+  background: rgba(81, 87, 105, 0.4);
 }
 
 .promo-banner,
@@ -730,7 +730,7 @@ a {
 .promo-banner:before {
   position: absolute;
   z-index: -1;
-  /* background: rgba(81, 87, 105, 0.4); */
+  background: rgba(81, 87, 105, 0.4);
 }
 
 .promo-banner:before,
@@ -765,4 +765,21 @@ a {
 
 .Fig01 {
   margin-left: 60px;
+}
+
+.fig2 {
+  margin-left: 130px;
+}
+
+.section-figure {
+  margin-top: 35%;
+}
+
+.footer_Logo {
+  margin-top: 10%;
+  margin-left: 50%;
+}
+
+#contact {
+  margin-top: 10%;
 }
