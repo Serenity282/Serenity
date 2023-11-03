@@ -561,17 +561,17 @@ a {
   object-position: 50% 100%;
 }
 
-.about-us-card .telan {
+.about-us-card .erandi {
   -o-object-position: 50% 25%;
   object-position: 50% 25%;
 }
 
-.about-us-card .binali {
+.about-us-card .kelum {
   -o-object-position: 50% 30%;
   object-position: 50% 30%;
 }
 
-.about-us-card .sasmini {
+.about-us-card .manushi {
   -o-object-position: 50% 30%;
   object-position: 50% 30%;
 }
@@ -761,4 +761,9 @@ a {
 .btncolorgradient {
   background-size: 200%;
   background-image: linear-gradient(to left, #52be80, #196f3d, #52be80);
+}
+
+.Fig01 {
+  margin-left: 60px;
+  
 }
