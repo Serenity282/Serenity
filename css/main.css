@@ -526,7 +526,7 @@ a {
 
 .timeline-event-thumbnail {
   -webkit-transition: box-shadow 0.5s ease-in;
-  -webkit-transition-delay: 0.1s;
+
   -webkit-transition: -webkit-box-shadow 0.5s ease-in 0.1s;
   transition: -webkit-box-shadow 0.5s ease-in 0.1s;
   transition: box-shadow 0.5s ease-in 0.1s;
@@ -658,7 +658,7 @@ a {
 }
 .connecting-lines.row .col-2.full::after {
   height: 100%;
-  left: calc(50% - 3px);
+  left: calc(50% - 0.5px);
 }
 .connecting-lines.row .col-2.top::after {
   height: 50%;
